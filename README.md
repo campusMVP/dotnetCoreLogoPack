@@ -32,4 +32,4 @@ These logos are licensed under Creative Commons 4.0-Share Alike-By license. You 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Disclaimer
-We are not in any way related to Microsoft neither pretend to represent the company in any way. We're only a group of enthusiast from the community that wanted to have a nice logo for our communications related to these technologies.
+We are not in any way related to Microsoft neither pretend to represent the company in any way. We're only a group of enthusiasts from the community that wanted to have a nice logo for our communications related to these technologies.
