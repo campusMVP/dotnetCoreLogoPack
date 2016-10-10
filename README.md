@@ -23,6 +23,9 @@ and **ASP.NET Core MVC**:
 
 You can find the logos in this repository **in bitmap and vector formats and with different sizes and variations**.
 
+## Designer
+Logos designed by campusMVP staff [Pablo Iglesias](https://twitter.com/piglesias).
+
 ## License
 These logos are licensed under Creative Commons 4.0-Share Alike-By license. You can read the license in this repository, or following the link in this CC logo:
 
