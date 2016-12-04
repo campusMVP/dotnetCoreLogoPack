@@ -11,17 +11,22 @@ We're giving away the designs in a lot of different formats for you to use.
 
 We have logos for **.NET Core**:
 
-![.NET Core](.NET Core/Bitmap RGB/NET-Core-Logo_2colors_Boxed_RGB_bitmap_BIG.png)
+![.NET Core](.NET Core/Bitmap RGB/Bitmap-MEDIUM_NET-Core-Logo_2colors_Square_Boxed_RGB.png)
 
 **ASP.NET Core**:
 
-![ASP.NET Core](ASP.NET Core/Bitmap RGB/ASP.NET-Core-Logo_2colors_Boxed_RGB_bitmap_BIG.png)
+![ASP.NET Core](ASP.NET Core/Bitmap RGB/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png)
 
-and **ASP.NET Core MVC**:
+**ASP.NET Core MVC**:
 
-![ASP.NET Core MVC](ASP.NET Core MVC/Bitmap RGB/ASP.NET-Core-MVC_Logo_2colors_Boxed_RGB_bitmap_BIG.png)
+![ASP.NET Core MVC](ASP.NET Core MVC/Bitmap RGB/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png)
 
-You can find the logos in this repository **in bitmap and vector formats and with different sizes and variations**.
+and **Entity Framework Core**:
+
+![Entity Framework Core](Entity Framework Core/Bitmap RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png)
+
+
+You can find the logos in this repository **in bitmap and vector formats and with different sizes and variations** including squared, horizontal, B&W, negative...
 
 ## Designer
 Logos designed by [campusMVP](http://www.campusmvp.es) staff designer [Pablo Iglesias](https://twitter.com/piglesias).
