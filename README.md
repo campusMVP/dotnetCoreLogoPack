@@ -1,6 +1,10 @@
 # dotnetCoreLogoPack
 Logos for .NET Core, ASP.NET Core and ASP.NET Core MVC
 
+![.NET Core Logo](.NET%20Core/Bitmap%20RGB/NET-Core-Logo_2colors_Boxed_RGB_bitmap_MEDIUM.png)
+![ASP.NET MVC Logo](ASP.NET%20Core%20MVC/Bitmap%20RGB/ASP.NET-Core-MVC_Logo_2colors_Boxed_RGB_bitmap_MEDIUM.png)
+![Entity Framework Core Logo](Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2Colors_Boxed_RGB.png)
+
 ## Summary
 
 Since Microsoft has not released any official logos for their new technology .NET Core, we've decided to design our own, Microsoft style, and share them with the world.
