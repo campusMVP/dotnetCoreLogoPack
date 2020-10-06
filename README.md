@@ -15,19 +15,19 @@ We're giving away the designs in a lot of different formats for you to use.
 
 We have logos for **.NET Core**:
 
-![.NET Core](.NET Core/Bitmap RGB/Bitmap-MEDIUM_NET-Core-Logo_2colors_Square_Boxed_RGB.png)
+![.NET Core](.NET%20Core/Bitmap%20RGB/Bitmap-MEDIUM_NET-Core-Logo_2colors_Square_Boxed_RGB.png)
 
 **ASP.NET Core**:
 
-![ASP.NET Core](ASP.NET Core/Bitmap RGB/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png)
+![ASP.NET Core](ASP.NET%20Core/Bitmap%20RGB/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png)
 
 **ASP.NET Core MVC**:
 
-![ASP.NET Core MVC](ASP.NET Core MVC/Bitmap RGB/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png)
+![ASP.NET Core MVC](ASP.NET%20Core%20MVC/Bitmap%20RGB/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png)
 
 and **Entity Framework Core**:
 
-![Entity Framework Core](Entity Framework Core/Bitmap RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png)
+![Entity Framework Core](Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png)
 
 
 You can find the logos in this repository **in bitmap and vector formats and with different sizes and variations** including squared, horizontal, B&W, negative...
