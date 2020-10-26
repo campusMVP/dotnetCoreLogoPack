@@ -1,5 +1,8 @@
-# dotnetCoreLogoPack
+# dotnetCore Logo Pack by campusMVP.es
+
 Logos for .NET Core, ASP.NET Core and ASP.NET Core MVC
+
+> If you're looking for our new .NET 5+ logo pack, [here you go!](https://github.com/campusMVP/dotnetLogoPack)
 
 ![.NET Core Logo](.NET%20Core/Bitmap%20RGB/NET-Core-Logo_2colors_Boxed_RGB_bitmap_MEDIUM.png)
 ![ASP.NET MVC Logo](ASP.NET%20Core%20MVC/Bitmap%20RGB/ASP.NET-Core-MVC_Logo_2colors_Boxed_RGB_bitmap_MEDIUM.png)
